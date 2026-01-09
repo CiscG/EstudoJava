@@ -2,3 +2,6 @@ Estudo git add
 linha master
 linha modificada teste
 Teste vai dar merda
+
+
+teste merda 2
